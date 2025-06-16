@@ -1,4 +1,3 @@
-# Library-Management
 # 🩸 Hệ thống Quản lý Hiến máu Tình nguyện
 
 Đây là đồ án môn học *Phân tích và Thiết kế Hệ thống*.  
